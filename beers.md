@@ -4,7 +4,9 @@ title: Beers
 permalink: /beers/
 ---
 
-## We have two award winning beers!
+## Our group has (continuously!) produced award winning beers!
 
-- 2019 Mid-State Fair Gold Award: Strong European Beer
-- 2021 Mid-State Fair Gold Award: Strong English Ale
+- 2019 Mid-State Fair Homebrew Competition, Gold Medal, Strong British Ale Division
+-- British Strong Ale, produced via continuous fermentation 
+- 2021 Mid-State Fair Homebrew Competition, Gold Medal, Strong Europena Beer Division
+-- Baltic Porter, produced via batch fermentation
