@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Welcome!
+title: Welcome
 ---
-You can change the title above if you want to and then write your content.  
+Dr. Michael Heying is an associate professor of chemistry at Cal Poly San Luis Obispo.  He loves theoretical fluids.
